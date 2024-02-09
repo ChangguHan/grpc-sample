@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/Desktop/intellij config/eclipse/LINECorp-EclipseJavaFormatter-V2.importorder" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/Desktop/intellij config/eclipse/LINECorp-EclipseJavaFormatter-V2.xml" />
+        <option name="selectedJavaProfile" value="LINE Corporation v2" />
+      </ProjectSpecificProfile>
+    </option>
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1546145742172" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/Documents/bank-ide-config-master/LINECorp-EclipseJavaFormatter-V2.importorder" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="name" value="LINE Corporation" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/Documents/bank-ide-config-master/LINECorp-EclipseJavaFormatter-V2-f_bank_dev1.xml" />
+        <option name="selectedJavaProfile" value="LINE Corporation v2" />
+      </Settings>
+    </option>
+  </component>
+</project>

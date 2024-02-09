@@ -1,0 +1,21 @@
+// https://velog.io/@chb1828/Spring-boot%EB%A1%9C-Grpc%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90
+
+syntax = "proto3";
+
+// option spec: https://protobuf.dev/programming-guides/proto3/
+option java_multiple_files = true; // 여러개의 .java 파일 생성
+option java_package = "org.chb.examples.lib"; // 생성될 패키지
+option java_outer_classname = "HelloWorldProto";
+
+service Simple {
+  rpc SayHello (HelloRequest) returns (HelloReply) {
+  }
+}
+
+message HelloRequest {
+  string name = 1;
+}
+
+message HelloReply {
+  string message = 1;
+}

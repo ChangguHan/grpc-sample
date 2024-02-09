@@ -1,0 +1,6 @@
+grpc:
+  server:
+    port: 19090
+logging:
+  level:
+    root: trace

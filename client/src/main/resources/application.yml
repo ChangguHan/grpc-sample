@@ -1,0 +1,5 @@
+grpc:
+  client:
+    test:
+      address: 'static://127.0.0.1:19090'
+      negotiationType: plaintext
