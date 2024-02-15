@@ -2,7 +2,7 @@
 
 # RPC
 ![img.png](images/img_4.png)
-*reference:https://real-dongsoo7.tistory.com/131*
+*reference: https://www.guru99.com/ko/remote-procedure-call-rpc.html*
 - Remote Procedure Calls의 약자
 - 다른 프로세스와 통신할때 인터페이스를 사용해서 통신하는 방법(기존 REST의 경우 JSON을 이용)
 - Client와 Server에 존재하는 각각의 Stub이 serialize and deserialize 역할을 수행
