@@ -25,6 +25,7 @@
 - client: gRPC 클라이언트(한번만 호출)
 
 # How to run
+- 자바 17 사용!!
 ```bash
 # Start gRPC server
 ./gradlew :server:bootRun
